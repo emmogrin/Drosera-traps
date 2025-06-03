@@ -21,3 +21,20 @@ git clone https://github.com/emmogrin/Drosera-traps.git
 cd Drosera-traps
 chmod +x drosera-trap-setup.sh
 ./drosera-trap-setup.sh
+
+```
+
+📌 Notes
+
+Use a Holesky ETH funded EVM private key.
+
+Get a Holesky RPC URL from Alchemy or QuickNode.
+
+---
+
+👤 Author
+
+Saint Khen
+GitHub: @emmogrin
+Twitter: @admirkhen
+
